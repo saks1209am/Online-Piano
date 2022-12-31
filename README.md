@@ -1,3 +1,3 @@
 # Online-Piano
 
-Visit https://pianolive.netlify.app to play online piano.
+An online site where you can play piano from your device.
